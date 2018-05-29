@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArvRandom
 {
-
+    // Test
     class Program
     {
         private static UdvidetRandom r = new UdvidetRandom();
